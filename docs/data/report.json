@@ -1,0 +1,35 @@
+{
+  "schema": "solana-ecosystem-pulse/v1",
+  "generatedAt": "2026-08-01T11:12:13.389382+00:00",
+  "readOnly": true,
+  "metrics": {
+    "rpcUrl": "https://api.mainnet-beta.solana.com",
+    "rpcHealth": "ok",
+    "slot": 436550519,
+    "blockTime": 1785582710,
+    "epoch": 1010,
+    "epochSlotIndex": 230519,
+    "slotsInEpoch": 432000,
+    "epochProgressPct": 53.36,
+    "samplePeriodSecs": 60,
+    "transactionsInSample": 166798,
+    "slotsInSample": 138,
+    "tps": 2779.97,
+    "slotTimeMs": 434.78,
+    "activeValidators": 693,
+    "delinquentValidators": 11,
+    "top10StakePct": 24.46,
+    "currentStakeSol": 431956985.64,
+    "totalSupplySol": 631376214.43,
+    "circulatingSupplySol": 581078697.33,
+    "nonCirculatingSupplySol": 50297517.1,
+    "solPriceUsd": 72.76,
+    "solanaTvlUsd": 4728505430
+  },
+  "anomalies": [],
+  "sources": {
+    "solanaRpc": "https://api.mainnet-beta.solana.com",
+    "coinGecko": "https://api.coingecko.com/api/v3/simple/price?ids=solana&vs_currencies=usd",
+    "defiLlama": "https://api.llama.fi/v2/historicalChainTvl/Solana"
+  }
+}
