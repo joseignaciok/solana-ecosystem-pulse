@@ -1,39 +1,32 @@
 {
   "schema": "solana-ecosystem-pulse/v1",
-  "generatedAt": "2026-08-09T13:17:21.085326+00:00",
+  "generatedAt": "2026-08-09T19:03:10.879550+00:00",
   "readOnly": true,
   "metrics": {
     "rpcUrl": "https://api.mainnet-beta.solana.com",
     "rpcHealth": "ok",
-    "slot": 438204267,
-    "blockTime": 1786281417,
+    "slot": 438253179,
+    "blockTime": 1786302168,
     "epoch": 1014,
-    "epochSlotIndex": 156266,
+    "epochSlotIndex": 205178,
     "slotsInEpoch": 432000,
-    "epochProgressPct": 36.17,
+    "epochProgressPct": 47.49,
     "samplePeriodSecs": 60,
-    "transactionsInSample": 263469,
-    "slotsInSample": 141,
-    "tps": 4391.15,
-    "slotTimeMs": 425.53,
+    "transactionsInSample": 267793,
+    "slotsInSample": 144,
+    "tps": 4463.22,
+    "slotTimeMs": 416.67,
     "activeValidators": 691,
     "delinquentValidators": 7,
     "top10StakePct": 24.39,
     "currentStakeSol": 434017846.24,
-    "totalSupplySol": 631883134.83,
-    "circulatingSupplySol": 582166019.75,
+    "totalSupplySol": 631882902.02,
+    "circulatingSupplySol": 582165786.93,
     "nonCirculatingSupplySol": 49717115.08,
-    "solPriceUsd": 76.55,
-    "solanaTvlUsd": 4824980961
+    "solPriceUsd": 77.15,
+    "solanaTvlUsd": 4863681476
   },
-  "anomalies": [
-    {
-      "metric": "tps",
-      "label": "Recent TPS changed materially",
-      "changePct": 55.2,
-      "severity": "medium"
-    }
-  ],
+  "anomalies": [],
   "sources": {
     "solanaRpc": "https://api.mainnet-beta.solana.com",
     "coinGecko": "https://api.coingecko.com/api/v3/simple/price?ids=solana&vs_currencies=usd",
