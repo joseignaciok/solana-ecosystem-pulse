@@ -1,24 +1,24 @@
 # Solana Ecosystem Pulse
 
-Generated: `2026-08-19T01:54:52.322558+00:00`
+Generated: `2026-08-19T07:07:29.485243+00:00`
 
 This report uses read-only public endpoints. It does not sign, submit, or simulate transactions.
 
 ## Network
 
-- RPC health: **{'error': 'request failed for https://api.mainnet-beta.solana.com: HTTP Error 503: Service Unavailable'}**
-- Slot: **{'error': 'request failed for https://api.mainnet-beta.solana.com: HTTP Error 503: Service Unavailable'}**
-- Epoch: **n/a**, n/a complete
-- Recent TPS: **n/a**; slot time: **n/a**
-- Active validators: **687**; delinquent: **8**
-- Top-10 active stake: **24.55%**
+- RPC health: **ok**
+- Slot: **440,219,027**
+- Epoch: **1,019**, 2.55% complete
+- Recent TPS: **2,740.52**; slot time: **428.57 ms**
+- Active validators: **682**; delinquent: **13**
+- Top-10 active stake: **24.39%**
 
 ## Market and supply
 
-- SOL price: **$76.75**
-- Solana TVL: **$4,899,642,405**
-- Total supply: **632,387,178.44 SOL**
-- Circulating supply: **582,891,993.03 SOL**
+- SOL price: **$76.93**
+- Solana TVL: **$4,892,394,888**
+- Total supply: **632,514,740.99 SOL**
+- Circulating supply: **583,007,488.43 SOL**
 
 ## Anomalies
 
