@@ -1,24 +1,24 @@
 # Solana Ecosystem Pulse
 
-Generated: `2026-08-23T07:03:07.747364+00:00`
+Generated: `2026-08-23T13:03:49.234281+00:00`
 
 This report uses read-only public endpoints. It does not sign, submit, or simulate transactions.
 
 ## Network
 
 - RPC health: **ok**
-- Slot: **441,104,169**
-- Epoch: **1,021**, 7.45% complete
-- Recent TPS: **3,274.07**; slot time: **375.00 ms**
-- Active validators: **686**; delinquent: **9**
-- Top-10 active stake: **24.38%**
+- Slot: **441,163,426**
+- Epoch: **1,021**, 21.16% complete
+- Recent TPS: **3,632.52**; slot time: **359.28 ms**
+- Active validators: **681**; delinquent: **14**
+- Top-10 active stake: **24.55%**
 
 ## Market and supply
 
-- SOL price: **$92.17**
-- Solana TVL: **$5,526,608,567**
-- Total supply: **632,750,305.31 SOL**
-- Circulating supply: **583,277,390.92 SOL**
+- SOL price: **$94.62**
+- Solana TVL: **$5,538,843,441**
+- Total supply: **632,750,113.20 SOL**
+- Circulating supply: **583,277,003.82 SOL**
 
 ## Anomalies
 
