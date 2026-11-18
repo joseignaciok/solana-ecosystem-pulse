@@ -1,37 +1,43 @@
 {
   "schema": "solana-ecosystem-pulse/v1",
-  "generatedAt": "2026-11-18T07:34:25.697912+00:00",
+  "generatedAt": "2026-11-18T20:36:10.089085+00:00",
   "readOnly": true,
   "metrics": {
     "rpcUrl": "https://api.mainnet-beta.solana.com",
     "rpcHealth": "ok",
-    "slot": 470852985,
-    "blockTime": 1794987259,
-    "epoch": 1089,
-    "epochSlotIndex": 404985,
+    "slot": 471070286,
+    "blockTime": 1795034160,
+    "epoch": 1090,
+    "epochSlotIndex": 190286,
     "slotsInEpoch": 432000,
-    "epochProgressPct": 93.75,
+    "epochProgressPct": 44.05,
     "samplePeriodSecs": 60,
-    "transactionsInSample": 70398,
-    "slotsInSample": 276,
-    "tps": 1173.3,
-    "slotTimeMs": 217.39,
-    "activeValidators": 661,
-    "delinquentValidators": 5,
-    "top10StakePct": 24.77,
-    "currentStakeSol": 428741222.34,
-    "totalSupplySol": 637737649.45,
-    "circulatingSupplySol": 591739400.2,
-    "nonCirculatingSupplySol": 45998249.25,
-    "solPriceUsd": 74.95,
-    "solanaTvlUsd": 4778583755
+    "transactionsInSample": 153680,
+    "slotsInSample": 279,
+    "tps": 2561.33,
+    "slotTimeMs": 215.05,
+    "activeValidators": 660,
+    "delinquentValidators": 25,
+    "top10StakePct": 24.98,
+    "currentStakeSol": 426680594.93,
+    "totalSupplySol": 637798758.43,
+    "circulatingSupplySol": 591794721.69,
+    "nonCirculatingSupplySol": 46004036.74,
+    "solPriceUsd": 72.82,
+    "solanaTvlUsd": 4713266331
   },
   "anomalies": [
     {
       "metric": "tps",
       "label": "Recent TPS changed materially",
-      "changePct": -41.95,
+      "changePct": 118.3,
       "severity": "medium"
+    },
+    {
+      "metric": "delinquentValidators",
+      "label": "Delinquent validator count increased",
+      "change": 20,
+      "severity": "high"
     }
   ],
   "sources": {
